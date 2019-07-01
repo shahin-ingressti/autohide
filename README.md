@@ -1,0 +1,2 @@
+# autohide
+Autohide text
